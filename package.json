@@ -85,7 +85,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "",
+    "start": "serve ./src"
   },
   "author": "",
   "license": "ISC"
