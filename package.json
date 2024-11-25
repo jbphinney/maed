@@ -4,8 +4,13 @@
   "description": "My Mead site",
   "main": "scripts.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "",
+    "start": "serve ./src"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
 }
